@@ -1,3 +1,3 @@
 # Breakout-Game-Simple
 
-this my first Game with c# 
+This is my first game with C#. 
